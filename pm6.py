@@ -56,6 +56,9 @@ def reslove(url):
 
     stock =  re.search(r'(stockJSON[^;]+)',content).group().split("=")
     test = json.loads(stock[1])
+
+    imgs = re.search(r'(http://[^\s]*MULTIVIEW.jpg)',content).group()
+    print "<tr><td cols=3><img src='",imgs,"' /></td></tr>"
     #print test
     for item in test:
         for dimen in dimensions:
