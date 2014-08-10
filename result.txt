@@ -1,0 +1,694 @@
+--------------------------------------------------------------
+productId is   8458083
+productName is   "Flossie"
+brandName  is   "Grazie"
+{"3":"Black","158":"Blue","401":"Grey","574":"Purple","585":"Red"}
+colorNames  is  {u'158': u'Blue', u'3': u'Black', u'585': u'Red', u'401': u'Grey', u'574': u'Purple'}
+d3
+d4
+
+              <tr>
+                <td> Black </td>
+                <td> 6 </td>
+                <td> 1 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Black </td>
+                <td> M </td>
+                <td> 1 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Black </td>
+                <td> 7 </td>
+                <td> 3 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Black </td>
+                <td> M </td>
+                <td> 3 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Black </td>
+                <td> 7.5 </td>
+                <td> 8 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Black </td>
+                <td> M </td>
+                <td> 8 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Black </td>
+                <td> 8 </td>
+                <td> 8 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Black </td>
+                <td> M </td>
+                <td> 8 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Black </td>
+                <td> 8.5 </td>
+                <td> 10 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Black </td>
+                <td> M </td>
+                <td> 10 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Black </td>
+                <td> 9 </td>
+                <td> 8 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Black </td>
+                <td> M </td>
+                <td> 8 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Black </td>
+                <td> 10 </td>
+                <td> 7 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Black </td>
+                <td> M </td>
+                <td> 7 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Black </td>
+                <td> 11 </td>
+                <td> 4 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Black </td>
+                <td> M </td>
+                <td> 4 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Grey </td>
+                <td> 5.5 </td>
+                <td> 2 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Grey </td>
+                <td> M </td>
+                <td> 2 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Grey </td>
+                <td> 6 </td>
+                <td> 2 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Grey </td>
+                <td> M </td>
+                <td> 2 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Grey </td>
+                <td> 6.5 </td>
+                <td> 3 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Grey </td>
+                <td> M </td>
+                <td> 3 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Grey </td>
+                <td> 7 </td>
+                <td> 4 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Grey </td>
+                <td> M </td>
+                <td> 4 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Grey </td>
+                <td> 7.5 </td>
+                <td> 5 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Grey </td>
+                <td> M </td>
+                <td> 5 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Grey </td>
+                <td> 8 </td>
+                <td> 6 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Grey </td>
+                <td> M </td>
+                <td> 6 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Grey </td>
+                <td> 8.5 </td>
+                <td> 4 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Grey </td>
+                <td> M </td>
+                <td> 4 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Grey </td>
+                <td> 9 </td>
+                <td> 4 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Grey </td>
+                <td> M </td>
+                <td> 4 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Grey </td>
+                <td> 10 </td>
+                <td> 2 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Grey </td>
+                <td> M </td>
+                <td> 2 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Grey </td>
+                <td> 11 </td>
+                <td> 1 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Grey </td>
+                <td> M </td>
+                <td> 1 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Blue </td>
+                <td> 5.5 </td>
+                <td> 2 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Blue </td>
+                <td> M </td>
+                <td> 2 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Blue </td>
+                <td> 6 </td>
+                <td> 16 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Blue </td>
+                <td> M </td>
+                <td> 16 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Blue </td>
+                <td> 6.5 </td>
+                <td> 16 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Blue </td>
+                <td> M </td>
+                <td> 16 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Blue </td>
+                <td> 7 </td>
+                <td> 19 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Blue </td>
+                <td> M </td>
+                <td> 19 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Blue </td>
+                <td> 7.5 </td>
+                <td> 20 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Blue </td>
+                <td> M </td>
+                <td> 20 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Blue </td>
+                <td> 8 </td>
+                <td> 34 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Blue </td>
+                <td> M </td>
+                <td> 34 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Blue </td>
+                <td> 8.5 </td>
+                <td> 31 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Blue </td>
+                <td> M </td>
+                <td> 31 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Blue </td>
+                <td> 9 </td>
+                <td> 33 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Blue </td>
+                <td> M </td>
+                <td> 33 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Blue </td>
+                <td> 10 </td>
+                <td> 18 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Blue </td>
+                <td> M </td>
+                <td> 18 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Blue </td>
+                <td> 11 </td>
+                <td> 15 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Blue </td>
+                <td> M </td>
+                <td> 15 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Purple </td>
+                <td> 5.5 </td>
+                <td> 5 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Purple </td>
+                <td> M </td>
+                <td> 5 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Purple </td>
+                <td> 6 </td>
+                <td> 16 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Purple </td>
+                <td> M </td>
+                <td> 16 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Purple </td>
+                <td> 6.5 </td>
+                <td> 18 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Purple </td>
+                <td> M </td>
+                <td> 18 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Purple </td>
+                <td> 7 </td>
+                <td> 23 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Purple </td>
+                <td> M </td>
+                <td> 23 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Purple </td>
+                <td> 7.5 </td>
+                <td> 23 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Purple </td>
+                <td> M </td>
+                <td> 23 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Purple </td>
+                <td> 8 </td>
+                <td> 35 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Purple </td>
+                <td> M </td>
+                <td> 35 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Purple </td>
+                <td> 8.5 </td>
+                <td> 29 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Purple </td>
+                <td> M </td>
+                <td> 29 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Purple </td>
+                <td> 9 </td>
+                <td> 30 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Purple </td>
+                <td> M </td>
+                <td> 30 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Purple </td>
+                <td> 10 </td>
+                <td> 16 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Purple </td>
+                <td> M </td>
+                <td> 16 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Purple </td>
+                <td> 11 </td>
+                <td> 13 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Purple </td>
+                <td> M </td>
+                <td> 13 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Red </td>
+                <td> 5.5 </td>
+                <td> 5 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Red </td>
+                <td> M </td>
+                <td> 5 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Red </td>
+                <td> 6 </td>
+                <td> 7 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Red </td>
+                <td> M </td>
+                <td> 7 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Red </td>
+                <td> 6.5 </td>
+                <td> 7 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Red </td>
+                <td> M </td>
+                <td> 7 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Red </td>
+                <td> 7 </td>
+                <td> 14 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Red </td>
+                <td> M </td>
+                <td> 14 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Red </td>
+                <td> 7.5 </td>
+                <td> 16 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Red </td>
+                <td> M </td>
+                <td> 16 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Red </td>
+                <td> 8 </td>
+                <td> 17 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Red </td>
+                <td> M </td>
+                <td> 17 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Red </td>
+                <td> 8.5 </td>
+                <td> 13 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Red </td>
+                <td> M </td>
+                <td> 13 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Red </td>
+                <td> 9 </td>
+                <td> 13 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Red </td>
+                <td> M </td>
+                <td> 13 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Red </td>
+                <td> 10 </td>
+                <td> 11 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Red </td>
+                <td> M </td>
+                <td> 11 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Red </td>
+                <td> 11 </td>
+                <td> 4 </td>
+              </tr>
+           
+
+              <tr>
+                <td> Red </td>
+                <td> M </td>
+                <td> 4 </td>
+              </tr>
+           
+--------------------------------------------------------------
+productId is   8160754
+productName is   "Aloha Dress (Big Kids)"
+brandName  is   "Ella Moss Girl"
+{"2957":"Coral"}
+colorNames  is  {u'2957': u'Coral'}
+d13
+
+              <tr>
+                <td> Coral </td>
+                <td> 14 (Big Kids) </td>
+                <td> 3 </td>
+              </tr>
+           
